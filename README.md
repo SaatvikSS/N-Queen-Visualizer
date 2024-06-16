@@ -3,6 +3,9 @@ Hi This is a N Queen Visualizer program using python.
 
 Here is the explaination of the project:
 
+
+
+
 Logic and Concept
 Backtracking Algorithm:
 
@@ -20,6 +23,10 @@ Visualization with Pygame:
 Pygame is used to visualize the board and the process of placing queens.
 The board is drawn, and the queen’s position is updated in each step.
 A delay is introduced to make the visualization observable.
+
+
+
+
 
 Detailed Steps
 Initialize the Board:
